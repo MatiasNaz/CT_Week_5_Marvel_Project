@@ -1,0 +1,4 @@
+marvel_venv
+.env
+requirements.txt
+__pycache__
